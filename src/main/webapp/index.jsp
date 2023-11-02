@@ -13,8 +13,8 @@
   <div style="margin: 50px;">
       <h1>깃 테스트</h1>
       <ol>
-      	<li>첫번째 변경 진행함.</li>
-      	<li>배가 고픈 점심입니다 ~  </li>
+      	<li>팀장</li>
+      	<li>호준</li>
       </ol>
   </div> 
 </body>
