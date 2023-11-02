@@ -13,7 +13,7 @@
   <div style="margin: 50px;">
       <h1>깃 테스트</h1>
       <ol>
-      	<li>손형식</li>
+      	<li></li>
       	<li>진호준</li>
       </ol>
   </div> 
