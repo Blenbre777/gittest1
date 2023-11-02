@@ -13,8 +13,8 @@
   <div style="margin: 50px;">
       <h1>깃 테스트</h1>
       <ol>
-      	<li>팀장</li>
-      	<li>호준</li>
+      	<li>손형식</li>
+      	<li>진호준</li>
       </ol>
   </div> 
 </body>
